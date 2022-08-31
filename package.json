@@ -53,5 +53,6 @@
     "uvu": "0.0.19"
   },
   "dependencies": {
+    "node-fetch": "^3.2.10"
   }
 }
